@@ -1,3 +1,3 @@
 # Guessing-Game
 
-hello 20
+hello 2
